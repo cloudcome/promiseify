@@ -1,6 +1,6 @@
 {
   "name": "promiseify",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "callback method to promiseify method",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "keywords": [
     "promiseify"
   ],
-  "author": "shepherdwind",
+  "author": "shepherdwind <eward.song@gmail.com>",
+  "contributors":["cloudcome <cloudcome@163.com>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shepherdwind/promiseify/issues"
